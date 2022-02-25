@@ -1,0 +1,432 @@
+/* Extra large devices (large laptops and desktops, 1200px and down) */
+@media only screen and (max-width: 1330px) {
+
+  .banner-btn {
+    margin-left: 524px;
+
+  }
+
+}
+
+
+
+
+/* Large devices (laptops/desktops, 1024px and down) */
+@media only screen and (max-width: 1024px) {
+
+    .banner-btn {
+        margin-left: 429px;
+        line-height: 25px;
+        margin-bottom: 120px;
+      }
+
+      .social {
+        padding: 6px 10px;
+        margin: 8px;
+          margin-top: 8px;
+        margin-top: 27px;
+      }
+
+      .h3, h3 {
+        font-size: 1.75rem;
+      }
+
+      .service-title {
+        font-size: 35px;
+      }
+
+      .about-body {
+        font-size: 14px;
+        margin-top: -57px;
+      }
+
+      .resume-body {
+        font-size: 12px;
+      }
+
+
+      .AVAILABLE-text {
+        color: white;
+        font-size: 34px;
+      }
+
+      .testimonial {
+        margin-top: 26px;
+      }
+
+      .blog-text {
+        font-size: 30px;
+        padding-top: 156px;
+      }
+
+      .fiverr {
+        width: 79%;
+        height: 104px;
+      }
+      .hire-me {
+        font-size: 27px;
+
+      }
+      .hire-details {
+        font-size: 11px;
+      }
+
+
+      .breadcrumb-item.text-center.text-primary {
+        font-size: 24px;
+        margin-left: -100px;
+      }
+
+      .breadcrumb-item.active.text-primary {
+        font-size: 24px;
+        margin-left: 9px;
+      }
+      .title-hr {
+        font-size: 30px;
+      }
+
+}
+
+
+/* small devices (phones, 768px and down) */
+@media only screen and (max-width: 768px) {
+
+
+    .banner-btn {
+        margin-left: 307px;
+        line-height: 28px;
+        margin-bottom: 100px;
+      }
+
+
+      .about-title {
+        font-size: 28px;
+        background-size: 21% 90%;
+        background-position: 228px;
+      }
+
+
+      img {
+        margin-left: 181px;
+      }
+      .text-danger {
+        text-align: center;
+      }
+
+      .details {
+        text-align: center;
+      }
+
+
+      .social-icon {
+        text-align: center;
+      }
+
+      .contact-btn {
+        margin: 29px 285px;
+      }
+
+      h3 {
+        font-size: 24px;
+        text-align: center;
+      }
+
+      .card {
+        margin: 59px 33px;
+      }
+
+      .blog-text {
+        font-size: 25px;
+        padding-top: 59px;
+        margin: 39px;
+      }
+      .card-b {
+        margin-left: 140px;
+        margin-top: 58px;
+      }
+
+      .info-img {
+        margin-top: 93px;
+        margin-left: -22px;
+      }
+      .info-name {
+        font-size: 25px;
+      }
+
+      .details {
+        font-size: 11px;
+        line-height: 26px;
+        margin-top: 17px;
+      }
+
+
+      .AVAILABLE-text {
+        font-size: 16px;
+      }
+      .AVAILABLE-btn {
+        padding: 11px 5px;
+        margin-top: 17px;
+        line-height: 14px;
+        font-size: 14px;
+      }
+
+
+      .row2.d-flex {
+        display: block!important;
+      }
+
+      .card {
+        margin: 62px 126px;
+      }
+
+      .card-img-top {
+        margin-left: 0px;
+      }
+      .testimonial {
+        font-size: 13px;
+      }
+      .blog-text {
+        font-size: 22px;
+      }
+      .card-b {
+        margin-left: 122px;
+      }
+
+
+      .form-control {
+        width: 82%;
+      }
+
+
+      .fas.fa-map-marked-alt {
+        font-size: 32px;
+      }
+
+      .address-one {
+        font-size: 20px;
+        padding: 5px 0px;
+      }
+
+      .location {
+        padding: 0px 49px;
+        font-size: 16px;
+      }
+
+      .fas.fa-mail-bulk{
+        font-size: 32px;
+      }
+      .email-one{
+        font-size: 20px;
+        padding: 5px 0px;
+      }
+      .fas.fa-mobile-alt{
+        font-size: 32px;
+      }
+      .Phone-one{
+        font-size: 20px;
+        padding: 5px 0px;
+      }
+
+
+
+
+      .name {
+        margin-top: 2%;
+        margin-bottom: 3%;
+        font-size: 20px;
+        font-weight: 600;
+      }
+      .copyrights {
+        font-size: 11px;
+      }
+      .breadcrumb-item.text-center.text-primary {
+        font-size: 20px;
+        margin-left: -316px;
+      }
+      .title-hr {
+        font-size: 27px;
+      }
+      .deve {
+        margin-left: 2px;
+      }
+      .fiverr {
+        width: 23%;
+        height: 101px;
+        margin-left: 0;
+      }
+      .explore {
+        font-size: 15px;
+        color: #ffffff94;
+        width: 100%;
+      }
+      .hire-details {
+        font-size: 11px;
+        width: 100%;
+        margin: 7px;
+      }
+      .hire-me {
+        font-size: 21px;
+        margin: 7px;
+      }
+
+
+}
+
+
+
+
+
+
+/* Extra small devices (phones, 411px and down) */
+@media only screen and (max-width: 411px) {
+  .banner-title {
+    font-size: 26px;
+
+  }
+
+  .banner-body {
+    font-size: 12px;
+  }
+    .banner-btn {
+        margin-left: 118px;
+      }
+
+      .about-title {
+        background-size: 80px 100%;
+background-position: 113px;
+      }
+
+      .about-body {
+        font-size: 11px;
+      }
+
+      img {
+        margin-left: 55px;
+      }
+
+
+      .information-title {
+        margin-right: 686px;
+      }
+
+      .details {
+        margin-right: 687px;
+      }
+
+      .social-icon {
+        margin-right: 671px;
+      }
+
+      .contact-btn {
+        margin: 29px 146px;
+      }
+
+      h3 {
+        text-align: start;
+        margin-left: 22px;
+      }
+
+      .service-title {
+        font-size: 20px;
+      }
+
+      .RESUME-title {
+        text-align: start;
+      }
+      
+
+      .info-img {
+        width: 49%;
+        margin-top: 92px;
+        margin-left: -16px;        
+      }
+
+      .details {
+        font-size: 10px;
+        line-height: 16px;
+        width: 27%;
+      }
+      .AVAILABLE {
+        padding: 127px;
+
+      }
+      .AVAILABLE-text {
+        font-size: 10px;
+        margin-left: -26px;
+      }
+      .AVAILABLE-btn {
+        padding: 0px 23px;
+        margin-top: 10px;
+        line-height: 15px;
+        font-size: 13px;
+        margin-left: -29px;
+      }
+      .section-title {
+        padding-left: 62px;
+      }
+      .portfolio-nav ul {
+        margin-top: 13px;
+        margin-right: -759px;
+      }
+      .portfolio-nav {
+        margin-left: -392px;
+      }
+
+      .card {
+        margin: 62px 22px;
+      }
+
+
+   .blog-text {
+    font-size: 18px;
+    margin: 18px;
+      margin-left: 18px;
+    margin-left: -754px;
+  }
+  .card-b {
+    margin-left: 28px;
+    width: 16rem !important;
+  }
+  .contact-head {
+    font-size: 25px;
+    padding: 64px;
+    margin-left: -761px;
+  }
+  .form-control {
+    width: 100%;
+  }
+  .text-muted {
+    font-size: 15px;
+  }
+  .carousel-indicators li {
+    width: 12px;
+    height: 15px;
+    margin-top: -104px;
+    margin-left: -602px;
+  }
+  .carousel-indicators {
+    position: absolute;
+    top: 572px;
+    left: -773px;
+  }
+  .play-animation-btn {
+    right: 457px;
+  }
+  .info-hr {
+    width: 49%;
+  }
+  hr {
+    margin-top: 0rem;
+    margin-bottom: 2rem;
+  }
+  .navbar-light .navbar-toggler-icon {
+    margin-left: -164px;
+  }
+  .title-hr {
+    font-size: 19px;
+  }
+
+
+
+
+ }
